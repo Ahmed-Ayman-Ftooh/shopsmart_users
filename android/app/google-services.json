@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "280357039971",
+    "project_id": "shop-smart-ar-fcd4f",
+    "storage_bucket": "shop-smart-ar-fcd4f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280357039971:android:7ba0b740ec0f4671962d56",
+        "android_client_info": {
+          "package_name": "com.example.shopsmart_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280357039971-lmseu0b6vt5eebtkplk1963jusa5lt3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopsmart_admin",
+            "certificate_hash": "cd271ae56d409dd819ea2aad0435709f0e0037a8"
+          }
+        },
+        {
+          "client_id": "280357039971-enistfcf6tnft73i6e9cvsba9nd95qrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaRWHjqTFw47wLTl5rQhvKcbCw9EaooNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280357039971-enistfcf6tnft73i6e9cvsba9nd95qrn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "280357039971-dtlbf6l75ptck15vc7npg2rmea6shans.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopsmartUsers"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280357039971:android:23ee9b29f59198f7962d56",
+        "android_client_info": {
+          "package_name": "com.example.shopsmart_users"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280357039971-lekqoll60lbstqc68qhgth6m2jnvanl2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopsmart_users",
+            "certificate_hash": "cd271ae56d409dd819ea2aad0435709f0e0037a8"
+          }
+        },
+        {
+          "client_id": "280357039971-enistfcf6tnft73i6e9cvsba9nd95qrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaRWHjqTFw47wLTl5rQhvKcbCw9EaooNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280357039971-enistfcf6tnft73i6e9cvsba9nd95qrn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "280357039971-dtlbf6l75ptck15vc7npg2rmea6shans.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopsmartUsers"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
