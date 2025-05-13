@@ -5,7 +5,7 @@ class AssetsManager {
   static String bannersImagesPath = "assets/images/banners";
   static String categoriesImagesPath = "assets/images/categories";
 
-// general images
+  // general images
   static String forgotPassword = "$imagesPath/forgot_password.jpg";
   static String mapRounded = "$imagesPath/rounded_map.png";
   static String warning = "$imagesPath/warning.png";
@@ -40,4 +40,6 @@ class AssetsManager {
   static String cosmetics = "$categoriesImagesPath/cosmetics.png";
   static String shoes = "$categoriesImagesPath/shoes.png";
   static String pc = "$categoriesImagesPath/pc.png";
+  static String card = "$imagesPath/card.svg";
+  static String payPal = "$imagesPath/paypal.svg";
 }
